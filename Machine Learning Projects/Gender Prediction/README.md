@@ -28,3 +28,6 @@ link to test my model is-
 https://genderpridiction-api.herokuapp.com
 
 Go check out my model.
+
+![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/Screenshot%20(7).png
+)
