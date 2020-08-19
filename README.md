@@ -23,7 +23,7 @@
 
 * Data Analysis and Visualisation
 
-  - Scalable Walkability Analysis of Melbourne: Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
+  - [Big Market Sales Data Analysis](https://github.com/Anas-coder/My-Projects/blob/master/Data%20Analysis%20Projects/Big%20Market%20Sales%20Data%20Analysis.ipynb).: Analysis of sales in Big market.
   - Titanic Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
   - Stock Market Analysis for Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
   -  2016 US General Election Poll Data Analysis: Very simple analysis of 2016 US General Election Poll data.
