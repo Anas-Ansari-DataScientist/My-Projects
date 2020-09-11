@@ -9,6 +9,8 @@
   
   - [Flower species prediction](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/Machine%20Learning%20with%20Iris%20Dataset.ipynb): The Iris       dataset is a classic dataset for classification, machine learning, and data visualization. In this notebook I'm going to do an end to end project of Machine Learning in         which we will take SepalLength, SepalWidth, PetalLength, PetalWidth an input and will predict the species of the flower.
   
+  - [Customer Churn Prediction](https://github.com/Anas-coder/My-Projects/tree/master/Machine%20Learning%20Projects/Customer%20Churn):Predicting which set of the customers are       going to churn out from the organization by looking into some of the important attributes and applying Machine Learning algorithms on it.Similar concept with predicting         employee turnover, we are going to predict customer churn using telecom dataset.
+  
   - [Addimision Prediction](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/Addimision%20Prediction.ipynb):Predicting the addmission of a         student using entrance marks.
   
 >Tools: scikit-learn, Pandas, Seaborn, Matplotlib
