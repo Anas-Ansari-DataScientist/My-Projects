@@ -14,7 +14,7 @@ For EDA I have used a library called pandas_profiling. With the help of this par
 
 I have used 2 machine learning model-
 
->Logistic Regression 
+>Logistic Regression and
 >Random Forest
 
 I evaluated my working model by using F1 score,K-fold cross validation and through confusion matrix.
