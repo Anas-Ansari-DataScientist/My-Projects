@@ -39,4 +39,4 @@ To evaluate my model I have used-
 
 - [Jupyter Notebook](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/(HR%20Analytics)Job%20Promotion%20Prediction.ipynb) 
 
-**Thanks For Your Time**
+Thanks For Your Time  :+1:
