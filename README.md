@@ -19,7 +19,7 @@
 
 * **Natural Language Processing**
 
-  - Coming Soon......
+  - Coming Soon......:blush:
   
 * **Data Analysis and Visualisation**
 
@@ -31,4 +31,4 @@
 
 * **Micro Projects:**
 
-  - Coming Soon......
+  - Coming Soon......:relaxed:
