@@ -13,12 +13,12 @@ To predict which employee has a higher chance of getting promoted in an organiza
 **The dataset shows us that males are more likely to get promoted as compared to females.**
 
 
-![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Annotation%202020-09-14%20234823.jpg
+![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMOTION%20PREDICTION/Pictures/Annotation%202020-09-14%20234823.jpg
 )
 
 * The dataset tells us that there is more employee in Sales and marketing as compared to other Departments.
 
-![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Picture.jpg
+![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMOTION%20PREDICTION/Pictures/Picture.jpg
 )
 
 
