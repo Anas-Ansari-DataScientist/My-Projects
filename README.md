@@ -5,7 +5,7 @@
 
   - [Gender prediction](https://github.com/Anas-coder/Project-Gender-Prediction) : A model to predict the gender of a person using their height and  weight.
   
-  - [Job Promotion Prediction]https://github.com/Anas-coder/My-Projects/tree/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION) : Goal is to predict which             employee has a higher chance of getting promoted in an organization to expedite the appraisal and promotion process.
+  - [Job Promotion Prediction](https://github.com/Anas-coder/My-Projects/tree/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION) : Goal is to predict which             employee has a higher chance of getting promoted in an organization to expedite the appraisal and promotion process.
 
    - [Diabetes predictor](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/(Project)%20on%20Diabetes%20%20Data.ipynb): Predicting Diabetes in       a patient using  attributes like Pregnancies	Glucose	BloodPressure	etc.
   
@@ -18,7 +18,9 @@
 >Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
 * **Natural Language Processing**
+
   - Coming Soon...
+  
 * **Data Analysis and Visualisation**
 
   - [Big Market Sales Data Analysis](https://github.com/Anas-coder/My-Projects/blob/master/Data%20Analysis%20Projects/Big%20Market%20Sales%20Data%20Analysis.ipynb).: Analysis of     sales in Big market.
@@ -28,4 +30,5 @@
 >Tools: Pandas, Seaborn and Matplotlib
 
 * Micro Projects:
+
  Coming Soon..
