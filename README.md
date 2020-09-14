@@ -19,7 +19,7 @@
 
 * **Natural Language Processing**
 
-  - Coming Soon...
+  - Coming Soon......
   
 * **Data Analysis and Visualisation**
 
@@ -29,6 +29,6 @@
  
 >Tools: Pandas, Seaborn and Matplotlib
 
-* Micro Projects:
+* **Micro Projects:**
 
- Coming Soon..
+  - Coming Soon......
