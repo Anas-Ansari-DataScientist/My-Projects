@@ -16,7 +16,7 @@ To predict which employee has a higher chance of getting promoted in an organiza
 ![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Annotation%202020-09-14%20234823.jpg
 )
 
-**The dataset tell us that there are more employee in Sales and marketing as compared to other Departments.**
+* The dataset tell us that there are more employee in Sales and marketing as compared to other Departments.
 
 ![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Picture.jpg
 )
