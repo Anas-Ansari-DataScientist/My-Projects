@@ -1,4 +1,4 @@
-#  JOB PROMTION PREDICTION(HR Analytics)
+#  JOB PROMOTION PREDICTION(HR Analytics)
 
 Analyzing the HR Criteria of a Company and how they promote their Employees and keep Balance between them using Data Analytics, Data Visualizations, and Machine Learning Models for Classification Purposes.
 
@@ -10,19 +10,19 @@ To predict which employee has a higher chance of getting promoted in an organiza
 
 -The dataset contains 54808 records with 14 different features.
 
-**The datset shows us that males are more likely to get promoted as compared to females.**
+**The dataset shows us that males are more likely to get promoted as compared to females.**
 
 
 ![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Annotation%202020-09-14%20234823.jpg
 )
 
-* The dataset tell us that there are more employee in Sales and marketing as compared to other Departments.
+* The dataset tells us that there is more employee in Sales and marketing as compared to other Departments.
 
 ![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/JOB%20PROMTION%20PREDICTION/Picture.jpg
 )
 
 
-In this project I have used 3 Machine learning algorithm.
+In this project, I have used 3 Machine learning algorithms.
 
 --Logistic Regression
 
