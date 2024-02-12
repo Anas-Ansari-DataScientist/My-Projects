@@ -16,10 +16,6 @@
   - [Addimision Prediction](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/Addimision%20Prediction.ipynb): Predicting the admission of a         student using entrance marks.
   
    >Tools: sci-kit-learn, Pandas, Seaborn, Matplotlib
-
-* **Natural Language Processing**
-
-  - Coming Soon......:blush:
   
 * **Data Analysis and Visualisation**
 
@@ -28,8 +24,4 @@
   - [Movie lens data Analysis](https://github.com/Anas-coder/My-Projects/blob/master/Data%20Analysis%20Projects/Data%20Processing%20Example(Movie%20DATA%20)%20.ipynb): Analysis     of movie rating.
  
    >Tools: Pandas, Seaborn and Matplotlib
-
-* **Micro Projects:**
-
-  - Coming Soon......:relaxed:
   
